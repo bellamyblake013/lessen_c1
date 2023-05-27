@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\exm\examp001\bin\Debug\net6.0\examp001.exe
+C:\Users\New\Desktop\exm\examp001\bin\Debug\net6.0\examp001.deps.json
+C:\Users\New\Desktop\exm\examp001\bin\Debug\net6.0\examp001.runtimeconfig.json
+C:\Users\New\Desktop\exm\examp001\bin\Debug\net6.0\examp001.dll
+C:\Users\New\Desktop\exm\examp001\bin\Debug\net6.0\examp001.pdb
+C:\Users\New\Desktop\exm\examp001\obj\Debug\net6.0\examp001.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\exm\examp001\obj\Debug\net6.0\examp001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\exm\examp001\obj\Debug\net6.0\examp001.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\exm\examp001\obj\Debug\net6.0\examp001.AssemblyInfo.cs
+C:\Users\New\Desktop\exm\examp001\obj\Debug\net6.0\examp001.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\exm\examp001\obj\Debug\net6.0\examp001.dll
+C:\Users\New\Desktop\exm\examp001\obj\Debug\net6.0\refint\examp001.dll
+C:\Users\New\Desktop\exm\examp001\obj\Debug\net6.0\examp001.pdb
+C:\Users\New\Desktop\exm\examp001\obj\Debug\net6.0\examp001.genruntimeconfig.cache
+C:\Users\New\Desktop\exm\examp001\obj\Debug\net6.0\ref\examp001.dll
